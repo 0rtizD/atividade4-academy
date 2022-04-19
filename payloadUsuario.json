@@ -1,0 +1,7 @@
+{ 
+    "name": "#(name)", 
+    "email": "#(email)",
+    "id": "#(id)",
+    "updatedAt": "#(updatedAt)", 
+    "createdAt": "#(createdAt)"
+}
